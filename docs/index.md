@@ -26,7 +26,7 @@ General Information
 Free Options
 ------------
 
-* MAXQDA is installed on the lab computers in the[4th floor computer lab](https://library.utoronto.ca/space/robarts-library/robarts-library-electronic-classroom) in[Robarts Library](https://library.utoronto.ca/library/robarts). You are welcome to use the computers when there is not a class in session. It is open the same hours as Robarts Library
+* MAXQDA is installed on the lab computers in the [4th floor computer lab](https://library.utoronto.ca/space/robarts-library/robarts-library-electronic-classroom) in [Robarts Library](https://library.utoronto.ca/library/robarts). You are welcome to use the computers when there is not a class in session. It is open the same hours as Robarts Library
 * Or you might want to explore MAXQDA's [free, 14-day trial](https://www.maxqda.com/help/maxqda-trial-version)
 
 Paid Options
