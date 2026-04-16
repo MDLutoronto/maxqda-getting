@@ -42,4 +42,4 @@ Installation
 
 [MAXQDA installation instructions for both Windows and Mac](https://www.maxqda.com/help/install-and-activate-maxqda/how-to-install-maxqda)
 
-Technique: [Qualitative Data Analysis](https://mdl.library.utoronto.ca/technique/qualitative-data-analysis) | Tools: [MAXQDA](https://mdl.library.utoronto.ca/tools/maxqda)
+Technique: [Qualitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis) | Tools: [MAXQDA](https://mdlutoronto.github.io/tutorials-search/?tool=MAXQDA)
