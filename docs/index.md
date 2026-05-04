@@ -14,7 +14,7 @@ permalink: "/"  #! Remove this if not the homepage
 
 # Getting MAXQDA
 
-MAXQDA is qualitative data analysis software. The Map & Data Library can provide you with a license for use on your own computer, which includes access to its [Premium AI-Assist](https://www.maxqda.com/products/ai-assist). 
+[MAXQDA](https://www.maxqda.com/) is qualitative data analysis software. The Map & Data Library can provide you with a license for use on your own computer, which includes access to its [Premium AI-Assist](https://www.maxqda.com/products/ai-assist). 
 
 * To obtain a licensed copy of MAXQDA for your own use, follow our [installation and licensing instructions](https://mdlutoronto.github.io/MAXQDA-installation-license/).
 
