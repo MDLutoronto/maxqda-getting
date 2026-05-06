@@ -27,4 +27,4 @@ General Information
 * It runs on Windows and MacOS - [System Requirements](https://www.maxqda.com/products/system-requirements)
 * For more information on MAXQDA, check out our [guide](https://mdlutoronto.github.io/maxqda-info-resources-tutorials-workshops/)
 
-Technique: [Qualitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis) \| Tools: [MAXQDA](https://mdlutoronto.github.io/tutorials-search/?tool=MAXQDA)
+**Technique:** [Qualitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis) \| **Tools:** [MAXQDA](https://mdlutoronto.github.io/tutorials-search/?tool=MAXQDA)
